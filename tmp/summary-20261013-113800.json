@@ -1,0 +1,4 @@
+{
+  "summary": "Explained load balancing, hashing, caching, indexing, embeddings, and semantic search as they work together on an HR policy RAG request path: balancer spreads traffic, hashes and cache avoid repeat work, embeddings plus a filtered vector index power semantic search and citations.",
+  "current_status": "Conceptual explanation delivered; no code changes. Untracked requirements.txt remains the only repo delta from the start of the session."
+}
