@@ -1,0 +1,4 @@
+﻿{
+  "summary": "The user got ls: cannot access /content/drive/MyDrive/claude-swap-main because that folder was never uploaded or unzipped in Google Drive. The only local copy is still C:\\Users\\LENOVO\\Downloads\\claude-swap-main.zip. Told them to upload the zip to My Drive and unzip it there, or git clone realiti4/claude-swap into /content.",
+  "current_status": "No project files changed. claude-swap remains only as a zip in the user's Downloads folder, not in Google Drive or the Colab runtime."
+}

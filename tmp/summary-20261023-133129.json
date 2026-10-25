@@ -1,0 +1,4 @@
+﻿{
+  "summary": "The user could not open claude-swap-main.zip in Google Colab. The zip in Downloads is valid (118 entries, about 920 KB). The failure is that Colab's unzip runs on the remote /content filesystem and never sees the local Downloads file. Advised uploading it into the Colab session or, preferably, installing claude-swap locally because it needs Claude Code on this machine.",
+  "current_status": "HR Policy Agentic RAG project was not changed. claude-swap-main.zip remains in the user's Downloads folder and was verified as a readable archive."
+}

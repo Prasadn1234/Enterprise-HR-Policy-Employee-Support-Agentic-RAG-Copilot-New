@@ -1,0 +1,4 @@
+{
+  "summary": "Explained protocols and compliance in agentic AI with a concrete HR-copilot walkthrough: an annual-leave question moves through FastAPI, LangGraph routing, Pinecone retrieval, OpenAI evidence grading, optional Tavily fallback, grounded generation or abstention, and SQLite audit. Mapped each handoff to the tool and the rule it enforces (private-first, structured grades, web disclaimer, retry budget, citations).",
+  "current_status": "The HR Policy Agentic RAG copilot already implements the control loop (route, retrieve, grade, web fallback, rewrite, abstain, audit) in LangGraph with Pinecone, OpenAI, Tavily, FastAPI, and SQLite. No code changes were made this turn; the explanation is grounded in the existing workflow and audit service."
+}
