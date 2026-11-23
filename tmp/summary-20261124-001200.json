@@ -1,0 +1,4 @@
+{
+  "summary": "Replaced the linear 10-box list with a decision flowchart for the Ford Marketing, Sales and Service customer incentives and rewards workflow. Yes continues through RAG eligibility, the 5% spend check, agent drafting, and Llama Guard. No stops at human review, do not issue, hold for Marketing, or reviewer. The original Word file was open, so the flowchart was saved as a new PNG and a new docx on the Desktop.",
+  "current_status": "Ford MSS Incentives Rewards Flowchart.png and Ford MSS Customer Incentives and Rewards - GenAI Workflow with Flowchart - Nimmalapudi Prasad.docx are on the Desktop. The earlier Word file was left unchanged because it was locked."
+}
